@@ -1,3 +1,5 @@
+# DATE - 16/8/24 , FRIDAY
+
 # Variables , DataTypes concept
 
 print("Hello world in Python")

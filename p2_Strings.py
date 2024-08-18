@@ -1,5 +1,6 @@
-# String  Concepts
+# DATE - 17/8/24 , SATURDAY
 
+# String  Concepts
 
 name = "elon musk"   # String -> array of char ; string characters are indexed from 0,1,2 ....n
 print(name[2],"\n")      # variable_name[] helps to get a specific character from string
